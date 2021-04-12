@@ -1,0 +1,10 @@
+.timecontainer {
+  background-color: #383838;
+  opacity: 0.9;
+  border-radius: 10px;
+  height: 70px;
+  margin-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 5px 5px 5px 5px black;
+}

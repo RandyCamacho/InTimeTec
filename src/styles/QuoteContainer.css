@@ -1,0 +1,24 @@
+.button {
+  float: right;
+}
+
+.newquote {
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.author {
+  visibility: hidden;
+}
+
+.quotecontent:hover + .author {
+  visibility: visible;
+}
+
+.quote {
+  background-color: #383838;
+  opacity: 0.9;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 5px 5px 5px 5px black;
+}

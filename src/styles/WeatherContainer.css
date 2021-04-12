@@ -1,0 +1,12 @@
+.weathercontainer {
+  margin-top: 10px;
+  background-color: #383838;
+  opacity: 0.9;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 5px 5px 5px 5px black;
+}
+
+.weathericon {
+  size: 400px;
+}

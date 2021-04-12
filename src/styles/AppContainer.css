@@ -1,0 +1,19 @@
+.container {
+  color: white;
+  height: 100vh;
+  object-fit: contain;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 15px;
+  margin-right: 20px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin: 20px;
+}
